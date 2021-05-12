@@ -1,1 +1,3 @@
-Needed to change this to test how to pull from Github to the local computer
+1. Added this file from git bash
+2. Needed to change this to test how to pull from Github to the local computer
+3. Now we will test the merge feature in github
